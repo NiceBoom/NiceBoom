@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiceBoom&show_icons=true&theme=Gradient)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiceBoom&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiceBoom&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
