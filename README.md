@@ -1,6 +1,10 @@
-## 我是NiceBoom
+## 我是NiceBoom :boom: 
  
-- :boom: 
+- :point_right:喜欢摸鱼的菜鸡一枚
+- :pig: 体重250的胖子一枚
+- :sunny:好吃懒做 混吃等死的社畜一枚
+- 👨‍💻 经历：
+- 🏡 作品：
 
 ## 今年汇总 ✨
 
